@@ -9,6 +9,7 @@ How it works: for some reason, folders that contain other folders are duped.
 - Click on the . . . (to go back)
 
 The following folders should appear twice:
-.github/workflows
-abc/temp
-cmd/testing
+
+- .github/workflows
+- abc/temp
+- cmd/testing
